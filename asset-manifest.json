@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/himara1027/EnlightenDS-.github.io.git/static/css/main.a79509d7.css",
-    "main.js": "/himara1027/EnlightenDS-.github.io.git/static/js/main.1121dbdc.js",
-    "static/media/aut.jpg": "/himara1027/EnlightenDS-.github.io.git/static/media/aut.12480a625ba3f95b8ac3.jpg",
-    "static/media/w14.jpg": "/himara1027/EnlightenDS-.github.io.git/static/media/w14.aca57549cee8ade9cbc6.jpg",
-    "static/media/f1.jpg": "/himara1027/EnlightenDS-.github.io.git/static/media/f1.959623e8549c976496d8.jpg",
-    "static/media/dot2.png": "/himara1027/EnlightenDS-.github.io.git/static/media/dot2.1569e1c00e4aa0d7b33e.png",
-    "index.html": "/himara1027/EnlightenDS-.github.io.git/index.html",
-    "main.a79509d7.css.map": "/himara1027/EnlightenDS-.github.io.git/static/css/main.a79509d7.css.map",
-    "main.1121dbdc.js.map": "/himara1027/EnlightenDS-.github.io.git/static/js/main.1121dbdc.js.map"
+    "main.css": "/himara1027/EnlightenDS.github.io.git/static/css/main.5bf34e50.css",
+    "main.js": "/himara1027/EnlightenDS.github.io.git/static/js/main.1121dbdc.js",
+    "static/media/aut.jpg": "/himara1027/EnlightenDS.github.io.git/static/media/aut.12480a625ba3f95b8ac3.jpg",
+    "static/media/w14.jpg": "/himara1027/EnlightenDS.github.io.git/static/media/w14.aca57549cee8ade9cbc6.jpg",
+    "static/media/f1.jpg": "/himara1027/EnlightenDS.github.io.git/static/media/f1.959623e8549c976496d8.jpg",
+    "static/media/dot2.png": "/himara1027/EnlightenDS.github.io.git/static/media/dot2.1569e1c00e4aa0d7b33e.png",
+    "index.html": "/himara1027/EnlightenDS.github.io.git/index.html",
+    "main.5bf34e50.css.map": "/himara1027/EnlightenDS.github.io.git/static/css/main.5bf34e50.css.map",
+    "main.1121dbdc.js.map": "/himara1027/EnlightenDS.github.io.git/static/js/main.1121dbdc.js.map"
   },
   "entrypoints": [
-    "static/css/main.a79509d7.css",
+    "static/css/main.5bf34e50.css",
     "static/js/main.1121dbdc.js"
   ]
 }
